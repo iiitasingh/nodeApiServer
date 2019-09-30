@@ -1,3 +1,3 @@
 module.exports = {
-    mongourl: process.env.MYBOOKING
+    mongourl: process.env.CUSTOMCONNSTR_MYBOOKING
 }
